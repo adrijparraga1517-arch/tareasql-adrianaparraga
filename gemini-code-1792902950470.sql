@@ -1,6 +1,6 @@
 -- ========================================================
 -- TAREA: OPERACIONES BÁSICAS DE SQL (SELECT, WHERE, UPDATE, DELETE)
--- AUTOR: [Tu Nombre]
+-- AUTOR: adriana
 -- ========================================================
 
 -- 1. CREACIÓN DE LA TABLA DE PRUEBA
